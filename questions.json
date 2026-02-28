@@ -1,0 +1,63 @@
+[
+  {
+    "subject": "Math",
+    "question": "What is 3/4 + 1/8?",
+    "choices": ["4/12", "7/8", "5/8", "1/2"],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question": "What is 0.6 x 10?",
+    "choices": ["0.06", "6", "60", "0.6"],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question": "Which fraction is equivalent to 2/5?",
+    "choices": ["4/10", "6/15", "10/20", "Both A and B"],
+    "answer": "D"
+  },
+  {
+    "subject": "Math",
+    "question": "What is the value of 7 x 8?",
+    "choices": ["54", "56", "64", "48"],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question": "What is 125 / 5?",
+    "choices": ["20", "30", "25", "15"],
+    "answer": "C"
+  },
+
+  {
+    "subject": "Science",
+    "question": "Which planet is closest to the Sun?",
+    "choices": ["Venus", "Earth", "Mercury", "Mars"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question": "What is the process called when liquid water turns into water vapor?",
+    "choices": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question": "Which part of a plant absorbs water from the soil?",
+    "choices": ["Leaves", "Stem", "Roots", "Flower"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question": "What force pulls objects toward Earth?",
+    "choices": ["Magnetism", "Friction", "Gravity", "Electricity"],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question": "Which organ pumps blood through the body?",
+    "choices": ["Lungs", "Brain", "Heart", "Stomach"],
+    "answer": "C"
+  }
+]

@@ -43,4 +43,4 @@ Players compete to answer questions first using physical buttons while LCD displ
 | ---------------- | -------------------------- |
 | `main.py`        | Main game logic            |
 | `questions.json` | Trivia question database   |
-| `/images`        | Wiring and gameplay photos |
+

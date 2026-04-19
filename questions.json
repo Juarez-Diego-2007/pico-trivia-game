@@ -1,63 +1,1802 @@
 [
   {
     "subject": "Math",
-    "question": "What is 3/4 + 1/8?",
-    "choices": ["4/12", "7/8", "5/8", "1/2"],
+    "question_en": "What is 3/4 + 1/8?",
+    "question_es": "Cuanto es 3/4 + 1/8?",
+    "choices_en": [
+      "4/12",
+      "7/8",
+      "5/8",
+      "1/2"
+    ],
+    "choices_es": [
+      "4/12",
+      "7/8",
+      "5/8",
+      "1/2"
+    ],
     "answer": "B"
   },
   {
     "subject": "Math",
-    "question": "What is 0.6 x 10?",
-    "choices": ["0.06", "6", "60", "0.6"],
+    "question_en": "What is 0.6 x 10?",
+    "question_es": "Cuanto es 0.6 x 10?",
+    "choices_en": [
+      "0.06",
+      "6",
+      "60",
+      "0.6"
+    ],
+    "choices_es": [
+      "0.06",
+      "6",
+      "60",
+      "0.6"
+    ],
     "answer": "B"
   },
   {
     "subject": "Math",
-    "question": "Which fraction is equivalent to 2/5?",
-    "choices": ["4/10", "6/15", "10/20", "Both A and B"],
+    "question_en": "Which fraction equals 2/5?",
+    "question_es": "Que fraccion es igual a 2/5?",
+    "choices_en": [
+      "4/10",
+      "3/10",
+      "1/5",
+      "6/20"
+    ],
+    "choices_es": [
+      "4/10",
+      "3/10",
+      "1/5",
+      "6/20"
+    ],
+    "answer": "A"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 7 x 8?",
+    "question_es": "Cuanto es 7 x 8?",
+    "choices_en": [
+      "54",
+      "56",
+      "64",
+      "48"
+    ],
+    "choices_es": [
+      "54",
+      "56",
+      "64",
+      "48"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 125 / 5?",
+    "question_es": "Cuanto es 125 / 5?",
+    "choices_en": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "choices_es": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the value of 2.5 x 4?",
+    "question_es": "Cuanto es 2.5 x 4?",
+    "choices_en": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "choices_es": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 5/6 - 1/3?",
+    "question_es": "Cuanto es 5/6 - 1/3?",
+    "choices_en": [
+      "4/3",
+      "1/2",
+      "2/6",
+      "1/6"
+    ],
+    "choices_es": [
+      "4/3",
+      "1/2",
+      "2/6",
+      "1/6"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the area of a rectangle 8 cm long and 5 cm wide?",
+    "question_es": "Cual es el area de un rectangulo de 8 cm de largo y 5 cm de ancho?",
+    "choices_en": [
+      "13 sq cm",
+      "26 sq cm",
+      "40 sq cm",
+      "45 sq cm"
+    ],
+    "choices_es": [
+      "13 cm²",
+      "26 cm²",
+      "40 cm²",
+      "45 cm²"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which decimal equals 3/4?",
+    "question_es": "Que decimal es igual a 3/4?",
+    "choices_en": [
+      "0.34",
+      "0.50",
+      "0.75",
+      "0.25"
+    ],
+    "choices_es": [
+      "0.34",
+      "0.50",
+      "0.75",
+      "0.25"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 1,200 / 40?",
+    "question_es": "Cuanto es 1,200 / 40?",
+    "choices_en": [
+      "3",
+      "30",
+      "300",
+      "12"
+    ],
+    "choices_es": [
+      "3",
+      "30",
+      "300",
+      "12"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the volume of a box 3 cm x 4 cm x 5 cm?",
+    "question_es": "Cual es el volumen de una caja de 3 cm x 4 cm x 5 cm?",
+    "choices_en": [
+      "12 cu cm",
+      "36 cu cm",
+      "60 cu cm",
+      "20 cu cm"
+    ],
+    "choices_es": [
+      "12 cm³",
+      "36 cm³",
+      "60 cm³",
+      "20 cm³"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which number is prime?",
+    "question_es": "Cual numero es primo?",
+    "choices_en": [
+      "9",
+      "15",
+      "21",
+      "17"
+    ],
+    "choices_es": [
+      "9",
+      "15",
+      "21",
+      "17"
+    ],
     "answer": "D"
   },
   {
     "subject": "Math",
-    "question": "What is the value of 7 x 8?",
-    "choices": ["54", "56", "64", "48"],
+    "question_en": "What is 4.08 rounded to the nearest tenth?",
+    "question_es": "Cuanto es 4.08 redondeado a la decima mas cercana?",
+    "choices_en": [
+      "4.0",
+      "4.1",
+      "4.2",
+      "5.0"
+    ],
+    "choices_es": [
+      "4.0",
+      "4.1",
+      "4.2",
+      "5.0"
+    ],
     "answer": "B"
   },
   {
     "subject": "Math",
-    "question": "What is 125 / 5?",
-    "choices": ["20", "30", "25", "15"],
+    "question_en": "A bag has 12 red and 8 blue marbles. What fraction are red?",
+    "question_es": "Una bolsa tiene 12 canicas rojas y 8 azules. Que fraccion son rojas?",
+    "choices_en": [
+      "1/2",
+      "3/5",
+      "2/5",
+      "4/5"
+    ],
+    "choices_es": [
+      "1/2",
+      "3/5",
+      "2/5",
+      "4/5"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the LCM of 4 and 6?",
+    "question_es": "Cual es el MCM de 4 y 6?",
+    "choices_en": [
+      "8",
+      "10",
+      "12",
+      "24"
+    ],
+    "choices_es": [
+      "8",
+      "10",
+      "12",
+      "24"
+    ],
     "answer": "C"
   },
-
   {
-    "subject": "Science",
-    "question": "Which planet is closest to the Sun?",
-    "choices": ["Venus", "Earth", "Mercury", "Mars"],
+    "subject": "Math",
+    "question_en": "What is 2/3 x 3/4?",
+    "question_es": "Cuanto es 2/3 x 3/4?",
+    "choices_en": [
+      "5/7",
+      "6/12",
+      "1/2",
+      "2/4"
+    ],
+    "choices_es": [
+      "5/7",
+      "6/12",
+      "1/2",
+      "2/4"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 15% of 200?",
+    "question_es": "Cuanto es el 15% de 200?",
+    "choices_en": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "choices_es": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "D"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A triangle has a base of 10 cm and height of 6 cm. What is its area?",
+    "question_es": "Un triangulo tiene base de 10 cm y altura de 6 cm. Cual es su area?",
+    "choices_en": [
+      "30 sq cm",
+      "40 sq cm",
+      "60 sq cm",
+      "16 sq cm"
+    ],
+    "choices_es": [
+      "30 cm²",
+      "40 cm²",
+      "60 cm²",
+      "16 cm²"
+    ],
+    "answer": "A"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the GCF of 18 and 24?",
+    "question_es": "Cual es el MCD de 18 y 24?",
+    "choices_en": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "choices_es": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which expression equals 3 x (4 + 2)?",
+    "question_es": "Que expresion es igual a 3 x (4 + 2)?",
+    "choices_en": [
+      "3x4 + 2",
+      "3x4 + 3x2",
+      "3+4 x 3+2",
+      "7 x 5"
+    ],
+    "choices_es": [
+      "3x4 + 2",
+      "3x4 + 3x2",
+      "3+4 x 3+2",
+      "7 x 5"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "How many milliliters are in 2.5 liters?",
+    "question_es": "Cuantos mililitros hay en 2.5 litros?",
+    "choices_en": [
+      "25 mL",
+      "250 mL",
+      "2,500 mL",
+      "25,000 mL"
+    ],
+    "choices_es": [
+      "25 mL",
+      "250 mL",
+      "2,500 mL",
+      "25,000 mL"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the perimeter of a square with sides of 7 cm?",
+    "question_es": "Cual es el perimetro de un cuadrado con lados de 7 cm?",
+    "choices_en": [
+      "14 cm",
+      "21 cm",
+      "28 cm",
+      "49 cm"
+    ],
+    "choices_es": [
+      "14 cm",
+      "21 cm",
+      "28 cm",
+      "49 cm"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 0.25 + 0.6?",
+    "question_es": "Cuanto es 0.25 + 0.6?",
+    "choices_en": [
+      "0.31",
+      "0.65",
+      "0.85",
+      "0.91"
+    ],
+    "choices_es": [
+      "0.31",
+      "0.65",
+      "0.85",
+      "0.91"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A recipe uses 2/3 cup of sugar. How much for 3 batches?",
+    "question_es": "Una receta usa 2/3 taza de azucar. Cuanto se necesita para 3 tandas?",
+    "choices_en": [
+      "1 cup",
+      "2 cups",
+      "3 cups",
+      "6 cups"
+    ],
+    "choices_es": [
+      "1 taza",
+      "2 tazas",
+      "3 tazas",
+      "6 tazas"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 10 to the power of 3?",
+    "question_es": "Cuanto es 10 a la potencia de 3?",
+    "choices_en": [
+      "30",
+      "100",
+      "1,000",
+      "10,000"
+    ],
+    "choices_es": [
+      "30",
+      "100",
+      "1,000",
+      "10,000"
+    ],
     "answer": "C"
   },
   {
     "subject": "Science",
-    "question": "What is the process called when liquid water turns into water vapor?",
-    "choices": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "question_en": "Which planet is closest to the Sun?",
+    "question_es": "Que planeta esta mas cerca del sol?",
+    "choices_en": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "choices_es": [
+      "Venus",
+      "Tierra",
+      "Mercurio",
+      "Marte"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the process when water becomes vapor?",
+    "question_es": "Como se llama cuando el agua se vuelve vapor?",
+    "choices_en": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Melting"
+    ],
+    "choices_es": [
+      "Condensacion",
+      "Evaporacion",
+      "Congelacion",
+      "Derretir"
+    ],
     "answer": "B"
   },
   {
     "subject": "Science",
-    "question": "Which part of a plant absorbs water from the soil?",
-    "choices": ["Leaves", "Stem", "Roots", "Flower"],
+    "question_en": "Which part of a plant absorbs water?",
+    "question_es": "Que parte de la planta absorbe agua?",
+    "choices_en": [
+      "Leaves",
+      "Stem",
+      "Roots",
+      "Flower"
+    ],
+    "choices_es": [
+      "Hojas",
+      "Tallo",
+      "Raices",
+      "Flor"
+    ],
     "answer": "C"
   },
   {
     "subject": "Science",
-    "question": "What force pulls objects toward Earth?",
-    "choices": ["Magnetism", "Friction", "Gravity", "Electricity"],
+    "question_en": "What force pulls objects toward Earth?",
+    "question_es": "Que fuerza atrae objetos hacia la Tierra?",
+    "choices_en": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Electricity"
+    ],
+    "choices_es": [
+      "Magnetismo",
+      "Friccion",
+      "Gravedad",
+      "Electricidad"
+    ],
     "answer": "C"
   },
   {
     "subject": "Science",
-    "question": "Which organ pumps blood through the body?",
-    "choices": ["Lungs", "Brain", "Heart", "Stomach"],
+    "question_en": "Which organ pumps blood?",
+    "question_es": "Que organo bombea sangre?",
+    "choices_en": [
+      "Lungs",
+      "Brain",
+      "Heart",
+      "Stomach"
+    ],
+    "choices_es": [
+      "Pulmones",
+      "Cerebro",
+      "Corazon",
+      "Estomago"
+    ],
     "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What do plants need to make food through photosynthesis?",
+    "question_es": "Que necesitan las plantas para hacer fotosintesis?",
+    "choices_en": [
+      "Water only",
+      "Sunlight only",
+      "Sun, water, CO2",
+      "Soil and rain"
+    ],
+    "choices_es": [
+      "Solo agua",
+      "Solo luz solar",
+      "Luz, agua, CO2",
+      "Suelo y lluvia"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What type of rock is formed from cooled lava?",
+    "question_es": "Que tipo de roca se forma de la lava enfriada?",
+    "choices_en": [
+      "Sedimentary",
+      "Metamorphic",
+      "Igneous",
+      "Limestone"
+    ],
+    "choices_es": [
+      "Sedimentaria",
+      "Metamorfica",
+      "Ignea",
+      "Caliza"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "The San Andreas Fault runs through California. What causes it to move?",
+    "question_es": "La falla de San Andreas atraviesa California. Que la hace moverse?",
+    "choices_en": [
+      "Volcanoes",
+      "Tectonic plates",
+      "Ocean tides",
+      "Wind erosion"
+    ],
+    "choices_es": [
+      "Volcanes",
+      "Placas tectonicas",
+      "Mareas del oceano",
+      "Erosion del aire"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the role of decomposers in an ecosystem?",
+    "question_es": "Cual es el papel de los descomponedores en un ecosistema?",
+    "choices_en": [
+      "Sunlight as food",
+      "Hunt animals",
+      "Break down matter",
+      "Pollinate flowers"
+    ],
+    "choices_es": [
+      "Comida del sol",
+      "Cazar animales",
+      "Descomp. materia",
+      "Polinizar flores"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which of these is a producer in a food chain?",
+    "question_es": "Cual de estos es un productor en una cadena alimentaria?",
+    "choices_en": [
+      "Hawk",
+      "Grass",
+      "Frog",
+      "Snake"
+    ],
+    "choices_es": [
+      "Halcon",
+      "Hierba",
+      "Rana",
+      "Serpiente"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What state of matter has no definite shape or volume?",
+    "question_es": "Que estado de la materia no tiene forma ni volumen definido?",
+    "choices_en": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "choices_es": [
+      "Solido",
+      "Liquido",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What happens to water when it freezes?",
+    "question_es": "Que le pasa al agua cuando se congela?",
+    "choices_en": [
+      "It expands",
+      "It shrinks",
+      "It stays the same",
+      "It evaporates"
+    ],
+    "choices_es": [
+      "Se expande",
+      "Se encoge",
+      "No cambia",
+      "Se evapora"
+    ],
+    "answer": "A"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which layer of Earth do we live on?",
+    "question_es": "En que capa de la Tierra vivimos?",
+    "choices_en": [
+      "Mantle",
+      "Core",
+      "Crust",
+      "Magma"
+    ],
+    "choices_es": [
+      "Manto",
+      "Nucleo",
+      "Corteza",
+      "Magma"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "The oak tree is the state tree of California. What type of organism is it?",
+    "question_es": "El roble es el arbol estatal de California. Que tipo de organismo es?",
+    "choices_en": [
+      "Consumer",
+      "Producer",
+      "Decomposer",
+      "Predator"
+    ],
+    "choices_es": [
+      "Consumidor",
+      "Productor",
+      "Descomponedor",
+      "Depredador"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What causes day and night on Earth?",
+    "question_es": "Que causa el dia y la noche en la Tierra?",
+    "choices_en": [
+      "Earth orbits Sun",
+      "Moon blocks Sun",
+      "Earth rotates",
+      "Clouds cover sky"
+    ],
+    "choices_es": [
+      "Tierra orbita Sol",
+      "Luna bloquea Sol",
+      "Tierra rota",
+      "Nubes tapan cielo"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "San Francisco Bay is an estuary. What mixes in an estuary?",
+    "question_es": "La Bahia de San Francisco es un estuario. Que se mezcla en un estuario?",
+    "choices_en": [
+      "Fresh/salt water",
+      "Lava/ocean water",
+      "Rain/groundwater",
+      "Ice and seawater"
+    ],
+    "choices_es": [
+      "Agua dulce/salada",
+      "Lava/agua marina",
+      "Lluvia/agua subte",
+      "Hielo/agua de mar"
+    ],
+    "answer": "A"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the main gas plants absorb during photosynthesis?",
+    "question_es": "Que gas absorben principalmente las plantas durante la fotosintesis?",
+    "choices_en": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "choices_es": [
+      "Oxigeno",
+      "Nitrogeno",
+      "Dioxido carbono",
+      "Hidrogeno"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which describes a physical change?",
+    "question_es": "Cual describe un cambio fisico?",
+    "choices_en": [
+      "Wood burning",
+      "Iron rusting",
+      "Ice melting",
+      "Bread baking"
+    ],
+    "choices_es": [
+      "Madera ardiendo",
+      "Hierro oxidandose",
+      "Hielo se derrite",
+      "Pan horneandose"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the main source of energy for most ecosystems on Earth?",
+    "question_es": "Cual es la principal fuente de energia para la mayoria de los ecosistemas?",
+    "choices_en": [
+      "Wind",
+      "Water",
+      "The Sun",
+      "Soil"
+    ],
+    "choices_es": [
+      "Viento",
+      "Agua",
+      "El Sol",
+      "Suelo"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Alameda County has many wetlands. What is one benefit of wetlands?",
+    "question_es": "El condado de Alameda tiene muchos humedales. Cual es un beneficio de los humedales?",
+    "choices_en": [
+      "Cause earthquakes",
+      "Filters water",
+      "Make electricity",
+      "Cause droughts"
+    ],
+    "choices_es": [
+      "Crean terremotos",
+      "Filtra el agua",
+      "Hace electricidad",
+      "Causan sequias"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is adaptation in living things?",
+    "question_es": "Que es la adaptacion en los seres vivos?",
+    "choices_en": [
+      "Move to new place",
+      "A survival trait",
+      "Eat a new food",
+      "Growing taller"
+    ],
+    "choices_es": [
+      "Ir a otro lugar",
+      "Rasgo de vida",
+      "Comer algo nuevo",
+      "Crecer mas alto"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which tool measures mass?",
+    "question_es": "Que instrumento mide la masa?",
+    "choices_en": [
+      "Thermometer",
+      "Ruler",
+      "Balance scale",
+      "Measur. cylinder"
+    ],
+    "choices_es": [
+      "Termometro",
+      "Regla",
+      "Balanza",
+      "Cilindro medidor"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What type of energy does a stretched rubber band have?",
+    "question_es": "Que tipo de energia tiene una banda elastica estirada?",
+    "choices_en": [
+      "Thermal energy",
+      "Kinetic energy",
+      "Potential energy",
+      "Chemical energy"
+    ],
+    "choices_es": [
+      "Energia termica",
+      "Energia cinetica",
+      "Energia potencial",
+      "Energia quimica"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "California condors were nearly extinct. What does extinct mean?",
+    "question_es": "Los condores de California casi se extinguieron. Que significa extinto?",
+    "choices_en": [
+      "Very common",
+      "No longer exists",
+      "Hard to find",
+      "Lives underground"
+    ],
+    "choices_es": [
+      "Muy comun",
+      "Ya no existe",
+      "Dificil encontrar",
+      "Vive bajo tierra"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What causes the seasons on Earth?",
+    "question_es": "Que causa las estaciones en la Tierra?",
+    "choices_en": [
+      "Distance from Sun",
+      "Earth tilts axis",
+      "The Moon orbit",
+      "Wind patterns"
+    ],
+    "choices_es": [
+      "Distancia al Sol",
+      "Inclinacion eje",
+      "Orbita de la Luna",
+      "Patron de viento"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 4/5 - 1/10?",
+    "question_es": "Cuanto es 4/5 - 1/10?",
+    "choices_en": [
+      "3/5",
+      "7/10",
+      "3/10",
+      "1/2"
+    ],
+    "choices_es": [
+      "3/5",
+      "7/10",
+      "3/10",
+      "1/2"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 3.7 x 100?",
+    "question_es": "Cuanto es 3.7 x 100?",
+    "choices_en": [
+      "3.700",
+      "37",
+      "370",
+      "3,700"
+    ],
+    "choices_es": [
+      "3.700",
+      "37",
+      "370",
+      "3,700"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which number has a 4 in the thousandths place: 12.4356?",
+    "question_es": "En 12.4356, que numero esta en el lugar de los milesimos?",
+    "choices_en": [
+      "1",
+      "4",
+      "3",
+      "5"
+    ],
+    "choices_es": [
+      "1",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 9/10 + 3/5?",
+    "question_es": "Cuanto es 9/10 + 3/5?",
+    "choices_en": [
+      "12/15",
+      "3/2",
+      "6/5",
+      "1 1/2"
+    ],
+    "choices_es": [
+      "12/15",
+      "3/2",
+      "6/5",
+      "1 1/2"
+    ],
+    "answer": "D"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the volume of a cube with sides of 4 cm?",
+    "question_es": "Cual es el volumen de un cubo con lados de 4 cm?",
+    "choices_en": [
+      "16 cu cm",
+      "32 cu cm",
+      "48 cu cm",
+      "64 cu cm"
+    ],
+    "choices_es": [
+      "16 cm³",
+      "32 cm³",
+      "48 cm³",
+      "64 cm³"
+    ],
+    "answer": "D"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A store sells apples for $0.75 each. How much for 8 apples?",
+    "question_es": "Una tienda vende manzanas a $0.75 cada una. Cuanto cuestan 8?",
+    "choices_en": [
+      "$5.00",
+      "$5.60",
+      "$6.00",
+      "$6.40"
+    ],
+    "choices_es": [
+      "$5.00",
+      "$5.60",
+      "$6.00",
+      "$6.40"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 5/8 of 40?",
+    "question_es": "Cuanto es 5/8 de 40?",
+    "choices_en": [
+      "20",
+      "25",
+      "30",
+      "32"
+    ],
+    "choices_es": [
+      "20",
+      "25",
+      "30",
+      "32"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which is greater: 2/3 or 5/8?",
+    "question_es": "Cual es mayor: 2/3 o 5/8?",
+    "choices_en": [
+      "5/8",
+      "2/3",
+      "They are equal",
+      "Cannot tell"
+    ],
+    "choices_es": [
+      "5/8",
+      "2/3",
+      "Son iguales",
+      "No se puede saber"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 480 / 12?",
+    "question_es": "Cuanto es 480 / 12?",
+    "choices_en": [
+      "30",
+      "36",
+      "40",
+      "48"
+    ],
+    "choices_es": [
+      "30",
+      "36",
+      "40",
+      "48"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A number pattern starts: 3, 6, 12, 24... What is the next number?",
+    "question_es": "Un patron empieza: 3, 6, 12, 24... Cual es el siguiente numero?",
+    "choices_en": [
+      "36",
+      "42",
+      "48",
+      "96"
+    ],
+    "choices_es": [
+      "36",
+      "42",
+      "48",
+      "96"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "How many centimeters are in 3.5 meters?",
+    "question_es": "Cuantos centimetros hay en 3.5 metros?",
+    "choices_en": [
+      "35 cm",
+      "305 cm",
+      "350 cm",
+      "3,500 cm"
+    ],
+    "choices_es": [
+      "35 cm",
+      "305 cm",
+      "350 cm",
+      "3,500 cm"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the value of n: 6 x n = 54?",
+    "question_es": "Cual es el valor de n: 6 x n = 54?",
+    "choices_en": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "choices_es": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A rectangle has area 48 sq cm and length 8 cm. What is its width?",
+    "question_es": "Un rectangulo tiene area de 48 cm² y largo de 8 cm. Cual es su ancho?",
+    "choices_en": [
+      "4 cm",
+      "5 cm",
+      "6 cm",
+      "7 cm"
+    ],
+    "choices_es": [
+      "4 cm",
+      "5 cm",
+      "6 cm",
+      "7 cm"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which set of numbers is ordered from least to greatest?",
+    "question_es": "Que conjunto de numeros esta ordenado de menor a mayor?",
+    "choices_en": [
+      "0.9, 0.09, 0.99",
+      "0.09, 0.9, 0.99",
+      "0.99, 0.9, 0.09",
+      "0.9, 0.99, 0.09"
+    ],
+    "choices_es": [
+      "0.9, 0.09, 0.99",
+      "0.09, 0.9, 0.99",
+      "0.99, 0.9, 0.09",
+      "0.9, 0.99, 0.09"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 1/4 divided by 2?",
+    "question_es": "Cuanto es 1/4 dividido entre 2?",
+    "choices_en": [
+      "1/2",
+      "1/6",
+      "1/8",
+      "2/4"
+    ],
+    "choices_es": [
+      "1/2",
+      "1/6",
+      "1/8",
+      "2/4"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A class of 30 students, 2/5 play soccer. How many students play soccer?",
+    "question_es": "En una clase de 30 estudiantes, 2/5 juegan futbol. Cuantos juegan futbol?",
+    "choices_en": [
+      "10",
+      "12",
+      "14",
+      "15"
+    ],
+    "choices_es": [
+      "10",
+      "12",
+      "14",
+      "15"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the area of a parallelogram with base 9 cm and height 4 cm?",
+    "question_es": "Cual es el area de un paralelogramo con base 9 cm y altura 4 cm?",
+    "choices_en": [
+      "13 sq cm",
+      "26 sq cm",
+      "36 sq cm",
+      "40 sq cm"
+    ],
+    "choices_es": [
+      "13 cm²",
+      "26 cm²",
+      "36 cm²",
+      "40 cm²"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 6² (6 squared)?",
+    "question_es": "Cuanto es 6² (6 al cuadrado)?",
+    "choices_en": [
+      "12",
+      "18",
+      "36",
+      "42"
+    ],
+    "choices_es": [
+      "12",
+      "18",
+      "36",
+      "42"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 50% of 180?",
+    "question_es": "Cuanto es el 50% de 180?",
+    "choices_en": [
+      "50",
+      "80",
+      "90",
+      "100"
+    ],
+    "choices_es": [
+      "50",
+      "80",
+      "90",
+      "100"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "How many faces does a rectangular prism have?",
+    "question_es": "Cuantas caras tiene un prisma rectangular?",
+    "choices_en": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "choices_es": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is 1,000 x 0.004?",
+    "question_es": "Cuanto es 1,000 x 0.004?",
+    "choices_en": [
+      "0.4",
+      "4",
+      "40",
+      "400"
+    ],
+    "choices_es": [
+      "0.4",
+      "4",
+      "40",
+      "400"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A store has 144 eggs packed in boxes of 12. How many boxes?",
+    "question_es": "Una tienda tiene 144 huevos en cajas de 12. Cuantas cajas hay?",
+    "choices_en": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "choices_es": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Math",
+    "question_en": "Which fraction is closest to 1?",
+    "question_es": "Que fraccion esta mas cerca de 1?",
+    "choices_en": [
+      "1/4",
+      "3/8",
+      "2/3",
+      "7/8"
+    ],
+    "choices_es": [
+      "1/4",
+      "3/8",
+      "2/3",
+      "7/8"
+    ],
+    "answer": "D"
+  },
+  {
+    "subject": "Math",
+    "question_en": "What is the missing number: 3/6 = ?/18?",
+    "question_es": "Cual es el numero que falta: 3/6 = ?/18?",
+    "choices_en": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "choices_es": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "D"
+  },
+  {
+    "subject": "Math",
+    "question_en": "A swimming pool is 10m long, 5m wide, and 2m deep. What is its volume?",
+    "question_es": "Una alberca mide 10m de largo, 5m de ancho y 2m de profundidad. Cual es su volumen?",
+    "choices_en": [
+      "50 cu m",
+      "70 cu m",
+      "100 cu m",
+      "120 cu m"
+    ],
+    "choices_es": [
+      "50 m³",
+      "70 m³",
+      "100 m³",
+      "120 m³"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the difference between a food chain and a food web?",
+    "question_es": "Cual es la diferencia entre una cadena alimentaria y una red alimentaria?",
+    "choices_en": [
+      "They are the same",
+      "Web: more paths",
+      "Chain: one path",
+      "Web:plants only"
+    ],
+    "choices_es": [
+      "Son lo mismo",
+      "Red: mas caminos",
+      "Cadena: un camino",
+      "Red:solo plantas"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What are clouds made of?",
+    "question_es": "De que estan hechas las nubes?",
+    "choices_en": [
+      "Ice only",
+      "Smoke and dust",
+      "Water drops/ice",
+      "Oxygen gas"
+    ],
+    "choices_es": [
+      "Solo hielo",
+      "Humo y polvo",
+      "Gotas agua/hielo",
+      "Gas oxigeno"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is precipitation?",
+    "question_es": "Que es la precipitacion?",
+    "choices_en": [
+      "Water soaks soil",
+      "Rain or snow",
+      "Water turns vapor",
+      "Water underground"
+    ],
+    "choices_es": [
+      "Agua en el suelo",
+      "Lluvia o nieve",
+      "Agua se evapora",
+      "Agua bajo tierra"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which property describes how light bends when passing through water?",
+    "question_es": "Que propiedad describe como la luz se dobla al pasar por el agua?",
+    "choices_en": [
+      "Reflection",
+      "Absorption",
+      "Refraction",
+      "Diffraction"
+    ],
+    "choices_es": [
+      "Reflexion",
+      "Absorcion",
+      "Refraccion",
+      "Difraccion"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the process when a caterpillar becomes a butterfly called?",
+    "question_es": "Como se llama el proceso cuando una oruga se convierte en mariposa?",
+    "choices_en": [
+      "Adaptation",
+      "Migration",
+      "Metamorphosis",
+      "Germination"
+    ],
+    "choices_es": [
+      "Adaptacion",
+      "Migracion",
+      "Metamorfosis",
+      "Germinacion"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Oakland is near the Pacific Ocean. What type of climate does this create?",
+    "question_es": "Oakland esta cerca del Oceano Pacifico. Que tipo de clima crea esto?",
+    "choices_en": [
+      "Hot and humid",
+      "Mild and foggy",
+      "Cold and snowy",
+      "Dry desert"
+    ],
+    "choices_es": [
+      "Caliente y humedo",
+      "Templado nublado",
+      "Frio y nevado",
+      "Desierto seco"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the function of the lungs?",
+    "question_es": "Cual es la funcion de los pulmones?",
+    "choices_en": [
+      "Pump blood",
+      "Digest food",
+      "Exchange O2/CO2",
+      "Filter blood"
+    ],
+    "choices_es": [
+      "Bombear sangre",
+      "Digerir alimentos",
+      "Intercambia gases",
+      "Filtrar la sangre"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which describes a chemical change?",
+    "question_es": "Cual describe un cambio quimico?",
+    "choices_en": [
+      "Cutting paper",
+      "Melting butter",
+      "Rusting iron",
+      "Dissolving salt"
+    ],
+    "choices_es": [
+      "Cortar papel",
+      "Derretir manteca",
+      "Oxidar hierro",
+      "Disolver sal"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the name of the process when plants release water vapor through their leaves?",
+    "question_es": "Como se llama el proceso cuando las plantas liberan vapor de agua por sus hojas?",
+    "choices_en": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Condensation"
+    ],
+    "choices_es": [
+      "Fotosintesis",
+      "Respiracion",
+      "Transpiracion",
+      "Condensacion"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "The Golden Gate Bridge is made mostly of steel. Steel is a mixture of iron and carbon. What is this type of mixture called?",
+    "question_es": "El Puente Golden Gate es de acero. El acero es una mezcla de hierro y carbono. Como se llama este tipo de mezcla?",
+    "choices_en": [
+      "Solution",
+      "Alloy",
+      "Compound",
+      "Suspension"
+    ],
+    "choices_es": [
+      "Solucion",
+      "Aleacion",
+      "Compuesto",
+      "Suspension"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the difference between weather and climate?",
+    "question_es": "Cual es la diferencia entre el tiempo y el clima?",
+    "choices_en": [
+      "Same thing",
+      "Only long-term",
+      "Only day-to-day",
+      "Only temperature"
+    ],
+    "choices_es": [
+      "Son lo mismo",
+      "Tiempo largo plzo",
+      "Solo dia a dia",
+      "Solo temperatura"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which planet has the most moons in our solar system?",
+    "question_es": "Que planeta tiene mas lunas en nuestro sistema solar?",
+    "choices_en": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "choices_es": [
+      "Jupiter",
+      "Saturno",
+      "Urano",
+      "Neptuno"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What causes erosion along the California coastline?",
+    "question_es": "Que causa la erosion en la costa de California?",
+    "choices_en": [
+      "Only earthquakes",
+      "Wind and water",
+      "Volc. eruptions",
+      "Human activity"
+    ],
+    "choices_es": [
+      "Solo terremotos",
+      "Viento y agua",
+      "Erupciones volc.",
+      "Actividad humana"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is an inherited trait?",
+    "question_es": "Que es un rasgo heredado?",
+    "choices_en": [
+      "Learned at school",
+      "From parents",
+      "From environment",
+      "From food"
+    ],
+    "choices_es": [
+      "Aprendido escuela",
+      "De padres a hijos",
+      "Del ambiente",
+      "De la comida"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What type of energy is in food?",
+    "question_es": "Que tipo de energia contienen los alimentos?",
+    "choices_en": [
+      "Kinetic energy",
+      "Solar energy",
+      "Chemical energy",
+      "Mechanical energy"
+    ],
+    "choices_es": [
+      "Energia cinetica",
+      "Energia solar",
+      "Energia quimica",
+      "Energia mecanica"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the smallest unit of matter?",
+    "question_es": "Cual es la unidad mas pequena de la materia?",
+    "choices_en": [
+      "Cell",
+      "Molecule",
+      "Atom",
+      "Electron"
+    ],
+    "choices_es": [
+      "Celula",
+      "Molecula",
+      "Atomo",
+      "Electron"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "How does energy move through a food chain?",
+    "question_es": "Como se mueve la energia en una cadena alimentaria?",
+    "choices_en": [
+      "Consumer to plant",
+      "Decomposer>plant",
+      "Producer to eater",
+      "Sun to soil"
+    ],
+    "choices_es": [
+      "Consum a product",
+      "Descomp-planta",
+      "Productor>consum",
+      "Sol al suelo"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Many monarch butterflies migrate through Oakland each fall. What is migration?",
+    "question_es": "Muchas mariposas monarca migran por Oakland cada otono. Que es la migracion?",
+    "choices_en": [
+      "Hide underground",
+      "Seasonal movement",
+      "Change color",
+      "Sleep in winter"
+    ],
+    "choices_es": [
+      "Esconderse tierra",
+      "Moverse de lugar",
+      "Cambiar de color",
+      "Dormir invierno"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is a hypothesis?",
+    "question_es": "Que es una hipotesis?",
+    "choices_en": [
+      "A proven fact",
+      "A testable guess",
+      "A conclusion",
+      "A supply list"
+    ],
+    "choices_es": [
+      "Hecho comprobado",
+      "Una prediccion",
+      "Una conclusion",
+      "Lista materiales"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What happens to most of the Sun's energy when it hits a dark surface?",
+    "question_es": "Que pasa con la mayor parte de la energia del Sol cuando toca una superficie oscura?",
+    "choices_en": [
+      "It is reflected",
+      "Absorbed as heat",
+      "Turns electric",
+      "Evaporates water"
+    ],
+    "choices_es": [
+      "Se refleja",
+      "Se absorbe calor",
+      "Se hace electric",
+      "Evapora agua"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Which describes mutualism?",
+    "question_es": "Cual describe el mutualismo?",
+    "choices_en": [
+      "One helped, hurt",
+      "Both benefit",
+      "One helped, ok",
+      "Both are harmed"
+    ],
+    "choices_es": [
+      "Uno ayuda, uno no",
+      "Ambos benefician",
+      "Uno ayuda, bien",
+      "Ambos danados"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What layer of the atmosphere do we breathe in?",
+    "question_es": "En que capa de la atmosfera respiramos?",
+    "choices_en": [
+      "Stratosphere",
+      "Mesosphere",
+      "Troposphere",
+      "Thermosphere"
+    ],
+    "choices_es": [
+      "Estratosfera",
+      "Mesosfera",
+      "Troposfera",
+      "Termosfera"
+    ],
+    "answer": "C"
+  },
+  {
+    "subject": "Science",
+    "question_en": "Lake Merritt in Oakland is a tidal lagoon. What does tidal mean?",
+    "question_es": "El lago Merritt en Oakland es una laguna de mareas. Que significa mareal?",
+    "choices_en": [
+      "Frozen in winter",
+      "Affected by tides",
+      "Near mountains",
+      "Filled by rain"
+    ],
+    "choices_es": [
+      "Congelado invier",
+      "Afectado mareas",
+      "Rodeado montanas",
+      "Llenado lluvia"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the main difference between a solid and a liquid?",
+    "question_es": "Cual es la diferencia principal entre un solido y un liquido?",
+    "choices_en": [
+      "Solids weigh more",
+      "Solids have shape",
+      "Liquids are cold",
+      "Solids float"
+    ],
+    "choices_es": [
+      "Solidos pesan mas",
+      "Solidos:frma fja",
+      "Liquidos sin form",
+      "Solidos flotan"
+    ],
+    "answer": "B"
+  },
+  {
+    "subject": "Science",
+    "question_en": "What is the purpose of a control group in an experiment?",
+    "question_es": "Cual es el proposito de un grupo de control en un experimento?",
+    "choices_en": [
+      "Test variables",
+      "Give a baseline",
+      "Speed up the test",
+      "Record all data"
+    ],
+    "choices_es": [
+      "Probar variables",
+      "Dar una base",
+      "Acelerar el test",
+      "Registrar datos"
+    ],
+    "answer": "B"
   }
 ]
